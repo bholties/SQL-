@@ -45,3 +45,8 @@ FROM employees
 GROUP BY last_name
 ORDER BY
 COUNT(last_name) DESC;
+
+![image](https://user-images.githubusercontent.com/77474724/128563123-2d493d5b-11a7-4fda-947d-2e09d059d40b.png)
+
+
+
